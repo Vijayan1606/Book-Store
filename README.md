@@ -124,3 +124,11 @@ This will launch the React app at http://localhost:5173
 
 **Proceed to Checkout:** Once you're ready to make a purchase, you can proceed to checkout to enter your shipping details and complete the purchase.
 
+## API Functionality
+
+- I created own API for this project 
+```
+http://localhost:1000//api/v1/
+```
+- By using this api , I fetch the details from MONGODB 
+
