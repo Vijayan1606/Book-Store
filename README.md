@@ -132,3 +132,26 @@ http://localhost:1000//api/v1/
 ```
 - By using this api , I fetch the details from MONGODB 
 
+## Screenshots
+![Bookstore](./frontend/src/assets/Screenshot%20(20).png)
+![Bookstore](./frontend/src/assets/Screenshot%20(21).png)
+![Bookstore](./frontend/src/assets/Screenshot%20(23).png)
+![Bookstore](./frontend/src/assets/Screenshot%20(24).png)
+![Bookstore](./frontend/src/assets/Screenshot%20(25).png)
+![Bookstore](./frontend/src/assets/Screenshot%20(26).png)
+![Bookstore](./frontend/src/assets/Screenshot%20(27).png)
+![Bookstore](./frontend/src/assets/Screenshot%20(28).png)
+![Bookstore](./frontend/src/assets/Screenshot%20(29).png)
+![Bookstore](./frontend/src/assets/Screenshot%20(30).png)
+
+## Reference Video
+
+- **Youtube Link**
+
+```
+https://youtube.com/watch?v=KwOGF0lbXW8&feature=shared
+
+```
+
+
+
