@@ -133,7 +133,9 @@ http://localhost:1000//api/v1/
 - By using this api , I fetch the details from MONGODB 
 
 ## Screenshots
+
 - **Desktop View:**
+  
 ![Bookstore](./frontend/src/assets/Screenshot%20(20).png)
 ![Bookstore](./frontend/src/assets/Screenshot%20(21).png)
 ![Bookstore](./frontend/src/assets/Screenshot%20(23).png)
@@ -145,7 +147,9 @@ http://localhost:1000//api/v1/
 ![Bookstore](./frontend/src/assets/Screenshot%20(29).png)
 ![Bookstore](./frontend/src/assets/Screenshot%20(30).png)
 
+
 - **Mobile View**:
+  
 ![Bookstore](./frontend/src/assets/Mobileview/Screenshot%202024-12-31%20104156.png)
 ![Bookstore](./frontend/src/assets/Mobileview/Screenshot%202024-12-31%20104301.png)
 ![Bookstore](./frontend/src/assets/Mobileview/Screenshot%202024-12-31%20104350.png)
@@ -155,6 +159,7 @@ http://localhost:1000//api/v1/
 ![Bookstore](./frontend/src/assets/Mobileview/Screenshot%202024-12-31%20104716.png)
 ![Bookstore](./frontend/src/assets/Mobileview/Screenshot%202024-12-31%20104751.png)
 ![Bookstore](./frontend/src/assets/Mobileview/Screenshot%202024-12-31%20104816.png)
+
 
 ## Reference Video
 
